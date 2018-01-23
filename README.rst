@@ -14,6 +14,14 @@ periodically over the network to an InfluxDB database so it can be analysed and
 graphed.
 
 
+wifi-button
+-----------
+
+`This sketch <wifi-button/>`_ is the source code that powers my WiFi button, a
+device that uses an ESP32 chip in deep sleep mode to control my lights while
+preserving battery power.
+
+
 License
 -------
 
