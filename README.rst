@@ -22,6 +22,14 @@ device that uses an ESP32 chip in deep sleep mode to control my lights while
 preserving battery power.
 
 
+gps-tracker
+-----------
+
+`This sketch <gps-tracker/>`_ is a Particle-compatible sketch that uses a GPS
+breakout module to track a car as it moves.
+
+
+
 License
 -------
 

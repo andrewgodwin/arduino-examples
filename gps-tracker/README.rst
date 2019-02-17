@@ -1,7 +1,7 @@
 GPS Tracker
 ===========
 
-This is the source code for my `GPS Tracker project <https://www.youtube.com/watch?v=0VBiJuf0038>`_.
+This is the source code for my `GPS Tracker project <https://www.youtube.com/watch?v=hIQv9oxIj08>`_.
 
 It's not pure Arduino, but instead designed for the Particle IDE; you'll need to either upload it to their online IDE or use the downloadable one to make it work.
 
